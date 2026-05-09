@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [KICKR](rides/20260412_1549_18082483131/)
+_2026-04-12 08:49_
+
+> Standard ride — 14.7 km, 0 m gain (flat). Easy day: hrTSS 32. Cadence in good range (mean 74 rpm, SD 7). Aerobic durability sound (decoupling 1.3%).
+
+- **14.7 km** · 0 m gain · 40 min · avg 22.1 km/h · hrTSS 32
+
+---
+
 ## [KICKR](rides/20260309_0147_17655532584/)
 _2026-03-08 18:47_
 
