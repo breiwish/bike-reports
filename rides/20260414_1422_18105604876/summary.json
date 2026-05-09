@@ -1,0 +1,14 @@
+{
+  "total_s": 2279.0,
+  "moving_s": 2254,
+  "distance_km": 13.748899999999999,
+  "elev_gain_m": 0,
+  "elev_loss_m": 0,
+  "avg_speed_kmh": 21.944322499683103,
+  "max_speed_kmh": 28.419428571428572,
+  "max_grade": 0.0,
+  "min_grade": 0.0,
+  "avg_hr": 151.79015084294588,
+  "max_hr": 178,
+  "avg_cad": 72.99732381801962
+}
