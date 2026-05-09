@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Bike Reports
+description: Automated cycling activity reports
+markdown: kramdown
