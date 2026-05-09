@@ -1,0 +1,27 @@
+{
+  "hrtss": 68.47159722222223,
+  "trimp": 125.90259663570487,
+  "ef": 2.549240474453664,
+  "decoupling": -3.5147282284699473,
+  "zones_sec": [
+    356,
+    355,
+    1430,
+    1300,
+    104
+  ],
+  "lthr": 170,
+  "gear_dist_pct": [
+    3.144467517057253,
+    1.8985464253930584,
+    6.08128151883714,
+    24.91842183328389,
+    30.732720261050133,
+    29.249480866211808,
+    1.7798872738059923,
+    1.7798872738059923,
+    0.17798872738059923,
+    0.2373183031741323
+  ],
+  "headline": "Standard ride \u2014 23.4 km, 96 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 68. Cadence in good range (mean 71 rpm, SD 11). Aerobic durability sound (decoupling -3.5%)."
+}

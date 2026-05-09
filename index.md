@@ -16,3 +16,12 @@ _2026-05-09 08:44 UTC_
 - **23.5 km** · 96 m gain · 59 min · avg 23.9 km/h · hrTSS 68
 
 ---
+
+## [Santa clara loop](rides/20260509_0144_18432688716/)
+_2026-05-08 18:44_
+
+> Standard ride — 23.4 km, 96 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 68. Cadence in good range (mean 71 rpm, SD 11). Aerobic durability sound (decoupling -3.5%).
+
+- **23.4 km** · 96 m gain · 59 min · avg 23.9 km/h · hrTSS 68
+
+---
