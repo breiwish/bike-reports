@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [KICKR](rides/20260508_1502_18426827907/)
+_2026-05-08 08:02_
+
+> Standard ride — 12.1 km, 0 m gain (flat). Easy day: hrTSS 23. Grinding tendency — 56% time below 70 rpm. Aerobic durability sound (decoupling -20.7%).
+
+- **12.1 km** · 0 m gain · 30 min · avg 24.2 km/h · hrTSS 23
+
+---
+
 ## [Evening ride](rides/20260430_0111_18314330608/)
 _2026-04-29 18:11_
 
