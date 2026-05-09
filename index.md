@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [Evening ride](rides/20260430_0111_18314330608/)
+_2026-04-29 18:11_
+
+> Endurance ride — 33.6 km, 137 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 87. Grinding tendency — 53% time below 70 rpm. Mild decoupling 6.4%.
+
+- **33.6 km** · 137 m gain · 95 min · avg 21.0 km/h · hrTSS 87
+
+---
+
 ## [Out of hibernation](rides/20260426_1732_18271078752/)
 _2026-04-26 10:32_
 
