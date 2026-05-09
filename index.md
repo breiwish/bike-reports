@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [KICKR](rides/20260309_0147_17655532584/)
+_2026-03-08 18:47_
+
+> Short ride — 4.8 km, 0 m gain (flat). Easy day: hrTSS 9. Cadence in good range (mean 83 rpm, SD 12). Aerobic durability sound (decoupling -3.6%).
+
+- **4.8 km** · 0 m gain · 12 min · avg 24.6 km/h · hrTSS 9
+
+---
+
 ## [KICKR](rides/20260228_0149_17547556012/)
 _2026-02-27 17:49_
 
