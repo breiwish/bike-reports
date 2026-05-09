@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [Out of hibernation](rides/20260426_1732_18271078752/)
+_2026-04-26 10:32_
+
+> Endurance ride — 32.4 km, 357 m gain (rolling). Solid aerobic effort: hrTSS 113. Grinding tendency — 70% time below 70 rpm. Aerobic durability sound (decoupling -10.7%). 2 climb(s); biggest: 1158m @ 7.4% (cat 4, VAM 312).
+
+- **32.4 km** · 357 m gain · 95 min · avg 20.4 km/h · hrTSS 113
+
+---
+
 ## [Lunch Ride](rides/20260419_1901_18176876366/)
 _2026-04-19 12:01_
 

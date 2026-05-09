@@ -1,0 +1,27 @@
+{
+  "hrtss": 112.77590277777777,
+  "trimp": 208.27500053753423,
+  "ef": 2.1772391021884627,
+  "decoupling": -10.693263707347421,
+  "zones_sec": [
+    962,
+    875,
+    1659,
+    1777,
+    593
+  ],
+  "lthr": 170,
+  "gear_dist_pct": [
+    6.738491674828599,
+    7.404505386875612,
+    6.581782566111655,
+    12.105778648383938,
+    5.269343780607247,
+    26.072477962781587,
+    4.035259549461313,
+    4.524975514201763,
+    4.897159647404505,
+    22.37022526934378
+  ],
+  "headline": "Endurance ride \u2014 32.4 km, 357 m gain (rolling). Solid aerobic effort: hrTSS 113. Grinding tendency \u2014 70% time below 70 rpm. Aerobic durability sound (decoupling -10.7%). 2 climb(s); biggest: 1158m @ 7.4% (cat 4, VAM 312)."
+}
