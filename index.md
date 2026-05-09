@@ -26,6 +26,15 @@ _2026-05-08 18:44_
 
 ---
 
+## [Lunch Ride](rides/20260419_1901_18176876366/)
+_2026-04-19 12:01_
+
+> Short ride — 6.7 km, 29 m gain (mostly flat with bumps). Easy day: hrTSS 13. Grinding tendency — 93% time below 70 rpm. Mild decoupling 7.6%.
+
+- **6.7 km** · 29 m gain · 30 min · avg 13.2 km/h · hrTSS 13
+
+---
+
 ## [KICKR](rides/20260414_1422_18105604876/)
 _2026-04-14 07:22_
 
