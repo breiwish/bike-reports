@@ -1,0 +1,27 @@
+{
+  "hrtss": 227.4688888888889,
+  "trimp": 408.6356905444663,
+  "ef": 2.414505705838695,
+  "decoupling": 15.719592039203961,
+  "zones_sec": [
+    1107,
+    1256,
+    3754,
+    4154,
+    930
+  ],
+  "lthr": 170,
+  "gear_dist_pct": [
+    2.8931538241191634,
+    4.611859066170152,
+    15.076864317769502,
+    27.251026448964,
+    16.79556955982049,
+    20.882268690919506,
+    4.134440943378211,
+    4.344504917406665,
+    2.453929151150578,
+    1.5563830803017282
+  ],
+  "headline": "Long ride \u2014 70.3 km, 383 m gain (mostly flat with bumps). High effort: hrTSS 227. Grinding tendency \u2014 59% time below 70 rpm. Aerobic decoupling 15.7% \u2014 high; check pacing/hydration."
+}

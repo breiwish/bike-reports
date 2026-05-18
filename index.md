@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Cycling](rides/20260517_2332_18550215101/)
+_2026-05-17 16:32_
+
+> Long ride — 70.3 km, 383 m gain (mostly flat with bumps). High effort: hrTSS 227. Grinding tendency — 59% time below 70 rpm. Aerobic decoupling 15.7% — high; check pacing/hydration.
+
+- **70.3 km** · 383 m gain · 184 min · avg 22.8 km/h · hrTSS 227
+
+---
+
 ## [Evening ride](rides/20260514_0213_18498773322/)
 _2026-05-13 19:13_
 
