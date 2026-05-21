@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Cycling](rides/20260521_0233_18590184354/)
+_2026-05-20 19:33_
+
+> Standard ride — 12.4 km, 46 m gain (flat). Easy day: hrTSS 29. Cadence in good range (mean 72 rpm, SD 11). Aerobic durability sound (decoupling 3.0%).
+
+- **12.4 km** · 46 m gain · 32 min · avg 23.1 km/h · hrTSS 29
+
+---
+
 ## [Cycling](rides/20260517_2332_18550215101/)
 _2026-05-17 16:32_
 
