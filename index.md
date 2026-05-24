@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Loch Gavin](rides/20260523_1946_18627461237/)
+_2026-05-23 12:46_
+
+> Endurance ride — 33.7 km, 162 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 78. Grinding tendency — 54% time below 70 rpm. Aerobic decoupling 22.8% — high; check pacing/hydration.
+
+- **33.7 km** · 162 m gain · 101 min · avg 19.8 km/h · hrTSS 78
+
+---
+
 ## [Cycling](rides/20260522_0201_18603432544/)
 _2026-05-21 19:01_
 
