@@ -1,0 +1,27 @@
+{
+  "hrtss": 40.17604166666667,
+  "trimp": 68.65649426977338,
+  "ef": 2.889989065862449,
+  "decoupling": 19.27898594312497,
+  "zones_sec": [
+    678,
+    253,
+    733,
+    630,
+    100
+  ],
+  "lthr": 170,
+  "gear_dist_pct": [
+    3.5553555355535553,
+    2.7902790279027903,
+    4.9504950495049505,
+    19.936993699369935,
+    37.66876687668767,
+    28.802880288028803,
+    1.08010801080108,
+    0.45004500450045004,
+    0.18001800180018002,
+    0.585058505850585
+  ],
+  "headline": "Standard ride \u2014 16.2 km, 75 m gain (mostly flat with bumps). Easy day: hrTSS 40. Cadence in good range (mean 73 rpm, SD 11). Aerobic decoupling 19.3% \u2014 high; check pacing/hydration."
+}

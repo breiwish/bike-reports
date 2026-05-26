@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Evening Ride](rides/20260526_0242_18656076960/)
+_2026-05-25 19:42_
+
+> Standard ride — 16.2 km, 75 m gain (mostly flat with bumps). Easy day: hrTSS 40. Cadence in good range (mean 73 rpm, SD 11). Aerobic decoupling 19.3% — high; check pacing/hydration.
+
+- **16.2 km** · 75 m gain · 40 min · avg 24.6 km/h · hrTSS 40
+
+---
+
 ## [Loch Gavin](rides/20260523_1946_18627461237/)
 _2026-05-23 12:46_
 
