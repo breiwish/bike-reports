@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Cycling](rides/20260602_0235_18750429299/)
+_2026-06-01 19:35_
+
+> Standard ride — 16.3 km, 72 m gain (mostly flat with bumps). Easy day: hrTSS 19. Grinding tendency — 74% time below 70 rpm. Aerobic durability sound (decoupling 2.9%).
+
+- **16.3 km** · 72 m gain · 43 min · avg 22.8 km/h · hrTSS 19
+
+---
+
 ## [Evening Ride](rides/20260526_0242_18656076960/)
 _2026-05-25 19:42_
 
