@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Half Ham, Full Halal](rides/20260614_1519_18921579997/)
+_2026-06-14 08:19_
+
+> Endurance ride — 38.7 km, 842 m gain (hilly). High effort: hrTSS 155. Grinding tendency — 68% time below 70 rpm. Aerobic durability sound (decoupling -79.7%). 6 climb(s); biggest: 6326m @ 5.1% (cat 2, VAM 426).
+
+- **38.7 km** · 842 m gain · 144 min · avg 16.1 km/h · hrTSS 155
+
+---
+
 ## [Cycling](rides/20260606_0256_18804278386/)
 _2026-06-05 19:56_
 
