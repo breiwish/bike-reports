@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Alhamdulillah not windy](rides/20260621_1512_19013417405/)
+_2026-06-21 08:12_
+
+> Endurance ride — 55.1 km, 151 m gain (flat). Solid aerobic effort: hrTSS 111. Cadence in good range (mean 73 rpm, SD 8). Aerobic durability sound (decoupling -0.5%).
+
+- **55.1 km** · 151 m gain · 134 min · avg 24.7 km/h · hrTSS 111
+
+---
+
 ## [Half Ham, Full Halal](rides/20260614_1519_18921579997/)
 _2026-06-14 08:19_
 
