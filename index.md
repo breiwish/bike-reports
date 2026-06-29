@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Saw a wild boar](rides/20260628_1440_19101009498/)
+_2026-06-28 07:40_
+
+> Endurance ride — 38.7 km, 163 m gain (mostly flat with bumps). Easy day: hrTSS 48. Grinding tendency — 51% time below 70 rpm. Aerobic durability sound (decoupling -18.0%).
+
+- **38.7 km** · 163 m gain · 113 min · avg 20.5 km/h · hrTSS 48
+
+---
+
 ## [Alhamdulillah not windy](rides/20260621_1512_19013417405/)
 _2026-06-21 08:12_
 
