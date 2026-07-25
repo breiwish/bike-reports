@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [New old page mill](rides/20260724_2338_19452620163/)
+_2026-07-24 16:38_
+
+> Endurance ride — 41.8 km, 307 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 113. Cadence in good range (mean 72 rpm, SD 12). Aerobic durability sound (decoupling -1.4%). 1 climb(s); biggest: 739m @ 4.9% (cat uncat, VAM 585).
+
+- **41.8 km** · 307 m gain · 101 min · avg 24.7 km/h · hrTSS 113
+
+---
+
 ## [Saw a wild boar](rides/20260628_1440_19101009498/)
 _2026-06-28 07:40_
 
