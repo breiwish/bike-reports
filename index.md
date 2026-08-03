@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Velohogs](rides/20260802_1543_19574210290/)
+_2026-08-02 08:43_
+
+> Endurance ride — 37.5 km, 552 m gain (rolling). High effort: hrTSS 146. Grinding tendency — 64% time below 70 rpm. Aerobic durability sound (decoupling -41.2%). 3 climb(s); biggest: 4568m @ 4.1% (cat 3, VAM 287).
+
+- **37.5 km** · 552 m gain · 128 min · avg 17.5 km/h · hrTSS 146
+
+---
+
 ## [New old page mill](rides/20260724_2338_19452620163/)
 _2026-07-24 16:38_
 
