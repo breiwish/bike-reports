@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Monday spin](rides/20260810_2318_19689065829/)
+_2026-08-10 16:18_
+
+> Endurance ride — 32.3 km, 148 m gain (mostly flat with bumps). Easy day: hrTSS 42. Grinding tendency — 82% time below 70 rpm. Aerobic decoupling 27.6% — high; check pacing/hydration.
+
+- **32.3 km** · 148 m gain · 97 min · avg 19.9 km/h · hrTSS 42
+
+---
+
 ## [Velohogs](rides/20260802_1543_19574210290/)
 _2026-08-02 08:43_
 

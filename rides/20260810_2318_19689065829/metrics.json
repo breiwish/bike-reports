@@ -1,0 +1,27 @@
+{
+  "hrtss": 41.58159722222222,
+  "trimp": 97.63140551095816,
+  "ef": 2.6405058872813165,
+  "decoupling": 27.60928906384524,
+  "zones_sec": [
+    5755,
+    115,
+    15,
+    0,
+    0
+  ],
+  "lthr": 170,
+  "gear_dist_pct": [
+    2.2376543209876543,
+    3.279320987654321,
+    7.85108024691358,
+    22.800925925925927,
+    13.503086419753087,
+    38.4837962962963,
+    5.034722222222222,
+    6.4621913580246915,
+    0.1736111111111111,
+    0.1736111111111111
+  ],
+  "headline": "Endurance ride \u2014 32.3 km, 148 m gain (mostly flat with bumps). Easy day: hrTSS 42. Grinding tendency \u2014 82% time below 70 rpm. Aerobic decoupling 27.6% \u2014 high; check pacing/hydration."
+}
