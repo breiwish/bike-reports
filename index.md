@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Fueled by msakhan](rides/20260816_1438_19769522241/)
+_2026-08-16 07:38_
+
+> Endurance ride — 36.3 km, 137 m gain (flat). Solid aerobic effort: hrTSS 65. Cadence in good range (mean 71 rpm, SD 12). Aerobic durability sound (decoupling 4.3%).
+
+- **36.3 km** · 137 m gain · 98 min · avg 22.1 km/h · hrTSS 65
+
+---
+
 ## [Monday spin](rides/20260810_2318_19689065829/)
 _2026-08-10 16:18_
 
