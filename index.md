@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Morning ride](rides/20260818_1557_19798084905/)
+_2026-08-18 08:57_
+
+> Endurance ride — 49.0 km, 215 m gain (mostly flat with bumps). Solid aerobic effort: hrTSS 82. Cadence in good range (mean 69 rpm, SD 10). Aerobic durability sound (decoupling 3.2%).
+
+- **49.0 km** · 215 m gain · 129 min · avg 22.7 km/h · hrTSS 82
+
+---
+
 ## [Fueled by msakhan](rides/20260816_1438_19769522241/)
 _2026-08-16 07:38_
 
