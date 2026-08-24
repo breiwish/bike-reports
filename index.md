@@ -8,6 +8,15 @@ title: Bike Reports
 _Automated post-ride analysis for ibreiwish's rides._
 
 
+## [Cycling](rides/20260823_1418_19869212413/)
+_2026-08-23 07:18_
+
+> Endurance ride — 59.1 km, 105 m gain (flat). Solid aerobic effort: hrTSS 82. Grinding tendency — 68% time below 70 rpm. Mild decoupling 5.7%.
+
+- **59.1 km** · 105 m gain · 174 min · avg 20.3 km/h · hrTSS 82
+
+---
+
 ## [Morning ride](rides/20260818_1557_19798084905/)
 _2026-08-18 08:57_
 
